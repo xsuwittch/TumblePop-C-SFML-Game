@@ -20,5 +20,15 @@ The game includes player movement, enemies, basic animations, collisions, and di
 
 ---
 
-## Project Structure
+## How to Run
+
+1. Install SFML.  
+2. Clone the repo.
+3. Compile the project:
+4. Make sure the `Data` folder is in the same directory as the executable.
+5. Run the game:
+
+## Notes
+
+This project was made as a college project.
 
